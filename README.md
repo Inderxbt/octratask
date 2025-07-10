@@ -89,7 +89,7 @@ Replace address with any address from explorer - https://octrascan.io/
 ```bash
 python cli.py send --to oct9AEtCF44sWQVaQm91A2c4EKXWBXYFECXMQVCdtvhLXXF --amount 0.01
 ```
-# QUSET 2 : ENCRYPT / DECRYPT BALANCE
+# Quest2 : ENCRYPT / DECRYPT BALANCE
 
 ### STEP 1: Follow Quest 1 Steps & Open Wallet UI
 
