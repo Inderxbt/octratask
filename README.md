@@ -91,7 +91,7 @@ python cli.py send --to oct9AEtCF44sWQVaQm91A2c4EKXWBXYFECXMQVCdtvhLXXF --amount
 ```
 # QUSET 2 : ENCRYPT / DECRYPT BALANCE
 
-### STEP 1: Follow Task 1 Steps & Open Wallet UI
+### STEP 1: Follow Quest 1 Steps & Open Wallet UI
 
 ---
 
