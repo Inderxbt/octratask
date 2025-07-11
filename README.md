@@ -54,13 +54,22 @@ Join Discord - https://discord.gg/gfAazqK9Xb
 
 ### Step 1
 
+Open in Codespace
+
+1. Go to 👉 [https://github.com/octra-labs/octra_pre_client](https://github.com/octra-labs/octra_pre_client)
+2. Click the green `Code` button  
+3. Select → `Open with Codespaces` → `+ New codespace`
+4. Wait for the environment to fully load
+
+### Step 2
+
+In the Codespace terminal run this command 
+
 ```bash
 pip install -r requirements.txt
 ````
 
 ---
-
-### Step 2
 
 ```bash
 cp wallet.json.example wallet.json
