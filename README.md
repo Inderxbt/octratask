@@ -50,7 +50,7 @@ Join Discord - https://discord.gg/gfAazqK9Xb
 
 ---
 
-# Quest1 - Send Tokens
+# Quest1 & Quest2 - Send Tokens & ENCRYPT / DECRYPT BALANCE
 
 ### Step 1
 
@@ -89,14 +89,10 @@ Replace address with any address from explorer - https://octrascan.io/
 ```bash
 python cli.py send --to oct9AEtCF44sWQVaQm91A2c4EKXWBXYFECXMQVCdtvhLXXF --amount 0.01
 ```
-# Quest2 : ENCRYPT / DECRYPT BALANCE
-
-### STEP 1: Follow Quest 1 Steps & Open Wallet UI
 
 ---
 
-### STEP 2:
-
+### 🔹 Step 5 :
 • Use Command `4` For Encrypt  
 • Use Command `5` For Decrypt  
 
