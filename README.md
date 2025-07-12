@@ -103,8 +103,11 @@ python cli.py send --to oct9AEtCF44sWQVaQm91A2c4EKXWBXYFECXMQVCdtvhLXXF --amount
 
 ### 🔹 Step 5 :
 • Use Command 1 For Send tx
+
 • Use Command 3 For Multi send
+
 • Use Command 4 For Encrypt
+
 • Use Command 5 For Decrypt
 
 Keep doing transactions, you can also use other commands like `6` & `7` for private Transfer & Claim , Use Address From Explorer: https://octrascan.io/
